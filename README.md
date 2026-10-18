@@ -21,15 +21,15 @@ Much of my work is private (client, government and university projects), includi
 
 ## Tech
 - **Web & Mobile:** React, Flutter, Django, Flask, REST APIs, WebSockets
-- **Deep Learning / AI:** PyTorch, CNNs, Neural Rendering (NeRF), Model Deployment
 - **Tools:** Git, Jupyter, Postman, VS Code
+- **Deep Learning / AI:** PyTorch, CNNs, Neural Rendering (NeRF), Model Deployment
+- **Backend / Infrastructure:** MySQL, PostgreSQL, Docker, CI/CD, Celery, Distributed Pipelines
 - **Computer Vision:** Linear Algebra, Multi-view Geometry, 3D Transformations, TDOA, Mel-spectrograms
 - **Languages:** Python, C++, JavaScript, Dart, PHP, SQL
-- **Backend / Infrastructure:** MySQL, PostgreSQL, Docker, CI/CD, Celery, Distributed Pipelines
 
 ## Recognition
 - Stipendium Hungaricum Scholarship — Tempus Public Foundation (Government of Hungary) (Jul 2024)
-- 2nd Prize – Scientific — Eötvös Loránd University, Faculty of Informatics (May 2026)
+- 2nd Prize – Scientific Students' Conference (TDK) — Eötvös Loránd University, Faculty of Informatics (May 2026)
 - First Class Honours – BSc Computer Science — Meru University of Science and Technology (Mar 2023)
 
 ## Contact
